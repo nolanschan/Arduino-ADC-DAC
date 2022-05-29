@@ -8,7 +8,7 @@ In this lab project, an analog input (sine wave) from an external function gener
 The full lab report with details and results can be found on my Github.io site <a href="http://nolanschan.github.io/projects/adcdac">here</a>.
 
 ## Credit ##
-The base code was written by Dr. Gary Hill at California State University Long Beach, and provided as part of the lab instructions.
+The base code was written by Dr. Gary Hill at California State University, Long Beach, and provided as part of the lab instructions.
 
 ## Modifications ##
 - Pin declarations were changed to match the pinout of the Arudino Mega2560.
